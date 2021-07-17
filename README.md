@@ -1,5 +1,5 @@
 # Lab: 08 - OO Design and GSON
-> This App will show one random popular quote, and the author when it is run, it will be done using GSON to parse `recentquotes.json` file. 
+> This App will show one random popular quoteLocal, and the author when it is run, it will be done using GSON to parse `recentquotes.json` file. 
 
 
 ### Download & install GSON dependency
